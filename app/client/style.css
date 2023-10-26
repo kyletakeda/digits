@@ -15,7 +15,7 @@
 body {
   --bs-dark: var(--matr-navbar-bg);
   --bs-dark-rgb: var(--matr-navbar-bg-rgb);
-  background: fixed center url('images/sandybeach.png');
+  background: fixed center url('images/waimanalobeach.png');
   background-size:cover;
 }
 
