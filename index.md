@@ -1,4 +1,5 @@
 ![](https://github.com/kyletakeda/digits/blob/main/doc/LandingPage.png)
+<img src="doc/LandingPage.png">
 
 Digits is an application that allows users to:
   * Register an account.
