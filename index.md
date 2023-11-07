@@ -1,4 +1,3 @@
-![](https://github.com/kyletakeda/digits/blob/main/doc/LandingPage.png)
 <img src="doc/LandingPage.png">
 
 Digits is an application that allows users to:
@@ -75,42 +74,41 @@ The following sections describe the major features of Digits:
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to the capabilities of Digits:
 
-![](https://github.com/kyletakeda/digits/blob/main/doc/LandingPage.png)
+<img src="doc/LandingPage.png">
 
 #### Login page
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-![](https://github.com/kyletakeda/digits/blob/main/doc/SignIn.png)
+<img src="doc/SignIn.png">
 
 #### Register page
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-![](https://github.com/kyletakeda/digits/blob/main/doc/Register.png)
-
+<img src="doc/Register.png">
 
 #### User home page
 
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
 
-![](https://github.com/kyletakeda/digits/blob/main/doc/UserHomePage.png)
+<img src="doc/UserHomePage.png">
 
 #### Add Contact page
 
 After logging in, here is the page that allows you to add new contacts:
 
-![](https://github.com/kyletakeda/digits/blob/main/doc/AddContact.png)
+<img src="doc/AddContact.png">
 
 #### List Contacts page
 
 Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
 
-![](https://github.com/kyletakeda/digits/blob/main/doc/ListContacts.png)
+<img src="doc/ListContacts.png">
 
 This page also allows the user to add timestamped “notes” detailing interactions they’ve had with the Contact. For example:
 
-![](https://github.com/kyletakeda/digits/blob/main/doc/ContactNotes.png)
+<img src="doc/ContactNotes.png">
 
 #### Edit Stuff page
 
@@ -122,4 +120,4 @@ From the List Contacts page, the user can click the “Edit” link associated w
 
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
 
-![](https://github.com/kyletakeda/digits/blob/main/doc/Admin.png)
+<img src="doc/Admin.png">
